@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Batnet</string>
+    <string name="HASHTAGS">###</string>
+    <string name="send_signal">Send Signal</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="pause_recording">Pause recording</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas commodo, risus vitae tristique tempor, dui ex faucibus neque, id vestibulum ante nulla a odio. Quisque euismod nibh eget elementum rutrum. In accumsan sollicitudin iaculis. Sed tristique nibh ac suscipit pretium. Fusce vitae nisl lacinia, lacinia dolor ac, euismod risus. Phasellus vestibulum enim quis accumsan condimentum. Proin vestibulum nisi nec sem sodales ornare. Phasellus feugiat, felis ac feugiat convallis, ante turpis venenatis metus, ut tristique odio nibh a sapien. Praesent mauris arcu, mattis ac felis vel, accumsan tristique lorem. Aliquam varius ornare tristique. Sed ante orci, imperdiet nec nulla gravida, aliquam placerat erat. Integer ac massa neque.  Aenean hendrerit cursus mauris, ac efficitur velit ultricies id. Nulla facilisi. Phasellus ut imperdiet est, non ullamcorper nisl. Suspendisse augue est, convallis id dapibus non, interdum sit amet diam. Fusce a commodo est. Sed mollis urna sem, non consectetur massa lacinia a. Praesent pharetra velit nisl, vel vehicula tellus suscipit ac. Ut tellus dolor, scelerisque eu odio eu, ornare aliquet turpis.  Phasellus et mauris bibendum, viverra mauris eu, vehicula lacus. Sed mattis, libero id luctus cursus, orci arcu aliquet metus, non porta erat purus at mauris. Nunc eget diam lobortis, tincidunt justo sed, mollis massa. Pellentesque eget varius elit, sed viverra quam. Nam ut volutpat orci. Donec lacinia sodales ullamcorper. Integer tincidunt nunc lectus, ut pellentesque dolor bibendum nec. Suspendisse imperdiet nisi neque, nec tempor purus fringilla quis. Vivamus varius erat hendrerit erat sagittis commodo. Nulla imperdiet erat orci, consectetur ultrices tellus rhoncus ut. Cras arcu nulla, pellentesque in pulvinar quis, dignissim sed nunc.  Nam eu ex at arcu commodo porttitor ut fringilla ex. Nam porta lectus diam, at posuere ex aliquam vitae. Integer ut eros hendrerit, suscipit velit eu, consectetur risus. Maecenas lacinia, libero eget accumsan dictum, tortor libero congue metus, eu vehicula diam purus sit amet lectus. Nam eu leo mi. Vivamus volutpat ultricies sapien. Donec sed pellentesque diam. Donec gravida eget ante in ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae urna placerat justo convallis lacinia.  Cras vitae fermentum risus. Duis cursus nisl eu neque rutrum maximus. Donec sit amet mattis mi. Integer bibendum tellus sit amet vulputate vulputate. Suspendisse potenti. In volutpat egestas bibendum. Duis cursus est neque, vitae lacinia mauris vestibulum in. Nullam dapibus, lorem ac lacinia ultricies, leo lectus interdum ligula, sed molestie sem turpis a ante. Suspendisse mollis ex diam, et venenatis magna laoreet id. Etiam pulvinar lectus a nisi efficitur sodales nec eget lorem. Vivamus ut gravida odio, vitae aliquet ipsum. Integer mi felis, eleifend non condimentum id, porttitor sed orci. Etiam nisi nibh, sodales viverra bibendum at, efficitur a ligula. Cras posuere luctus ex, vel volutpat odio scelerisque non.</string>
+    <string name="lipsum_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="helloworld">Hello, world!</string>
+    <string name="title_activity_messaging">MessagingActivity</string>
+    <string name="hint_enter_a_message">Enter a Message</string>
+    <string name="title_activity_dialogs">DialogsActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="open_chatkit">Open ChatKit</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="signal_processing_active_notification_title_template">Signal processing active: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="signal_processing_active_notification_placeholder_text_template">You said %1$s and lorem ipsum dolor
+        sit amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel semper venenatis, magna
+        odio volutpat velit, at ullamcorper nulla lacus sed turpis. Pellentesque vitae metus elit, nec tincidunt tellus.
+        Integer sed nisl sem, ullamcorper ornare lacus. Duis ac mauris sed massa congue volutpat. Donec sed erat sit
+        amet turpis viverra rhoncus sit amet nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="send_16_signals">Send 16 signals</string>
+    <string name="START_JAMMING">Start Jamming</string>
+    <string name="STOP_JAMMING">Stop Jamming</string>
+    <string name="channel_name">OrgBatnet</string>
+    <string name="channel_description">Notifications for BatNet</string>
+</resources>
